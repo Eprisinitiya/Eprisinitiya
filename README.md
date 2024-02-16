@@ -1,4 +1,4 @@
-![Animated Gif](https://cdn.dribbble.com/users/2168142/screenshots/4503544/media/f5d2c98918fba8e4cf963f7306a59316.gif)
+![Animated Gif](file:///C:/Users/mohit/Downloads/mohit%20github.gif)
 
 
 # Hello, I'm Mohit Kumar! 👋
