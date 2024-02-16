@@ -1,7 +1,6 @@
-# Hello, I'm Mohit Kumar! 👋
-
 ![Animated Gif](https://cdn.dribbble.com/users/214929/screenshots/4366947/media/b1f35b3c0416b23663b86d0aea416cc5.gif)
 
+# Hello, I'm Mohit Kumar! 👋
 ## About Me
 I'm a passionate and dedicated member of the Cloud Core Team at Google Developer Student Club AITR. With a strong interest in cloud technologies, I'm constantly expanding my knowledge and skills in the field. Here's a little more about me:
 
