@@ -27,7 +27,6 @@ Feel free to explore my repositories and connect with me. Let's learn and grow t
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eprisinitiya" alt="eprisinitiya" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
