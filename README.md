@@ -1,4 +1,4 @@
-![Animated Gif](https://cdn.dribbble.com/users/214929/screenshots/4366947/media/b1f35b3c0416b23663b86d0aea416cc5.gif)
+![Animated Gif](https://cdn.dribbble.com/users/2168142/screenshots/4503544/media/f5d2c98918fba8e4cf963f7306a59316.gif)
 
 # Hello, I'm Mohit Kumar! 👋
 ## About Me
