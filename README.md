@@ -1,4 +1,4 @@
-![Animated Gif](file:///C:/Users/mohit/Downloads/mohit%20github.gif)
+![Animated Gif](mohit kumar.gif)
 
 
 # Hello, I'm Mohit Kumar! 👋
