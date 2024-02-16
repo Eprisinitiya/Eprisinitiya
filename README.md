@@ -23,7 +23,6 @@ Some of my key interests include:
 - Personal Website: [Visit my website](https://mohitkumar.framer.ai/)
 
 Feel free to explore my repositories and connect with me. Let's learn and grow together in the exciting world of cloud computing and technology!
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eprisinitiya&label=Profile%20views&color=0e75b6&style=flat" alt="eprisinitiya" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eprisinitiya" alt="eprisinitiya" /></a> </p>
 
