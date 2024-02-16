@@ -1,6 +1,6 @@
 # Hello, I'm Mohit Kumar! 👋
 
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXlqNzM1bHRleGg2OGYxcjVkNHV3N3JpczJvdzZhNXFpYjRjZXF0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">via GIPHY</a></p>
 
 ## About Me
 I'm a passionate and dedicated member of the Cloud Core Team at Google Developer Student Club AITR. With a strong interest in cloud technologies, I'm constantly expanding my knowledge and skills in the field. Here's a little more about me:
