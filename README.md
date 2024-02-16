@@ -1,4 +1,5 @@
-![Animated Gif](mohit kumar.gif)
+![mohit github](https://github.com/Eprisinitiya/Eprisinitiya/assets/115715009/e2b5de3f-1eb4-40f6-a449-61d477ec1f6f)
+
 
 
 # Hello, I'm Mohit Kumar! 👋
