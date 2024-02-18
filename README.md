@@ -33,5 +33,5 @@ Some of my key interests include:
 - LinkedIn: [Connect with me](https://www.linkedin.com/in/mohitkumargdsc/)
 - Twitter: [Follow me](https://twitter.com/eprisinitiya)
 - Personal Website: [Visit my website](https://mohitkumar.framer.ai/)
-(https://github.com/Eprisinitiyaa/github-readme-stats)
+
 Feel free to explore my repositories and connect with me. Let's learn and grow together in the exciting world of cloud computing and technology!
