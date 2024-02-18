@@ -24,9 +24,9 @@ Some of my key interests include:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Eprisinitiya&show_icons=true&locale=en&layout=compact" alt="Eprisinitiya" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eprisinitiya&show_icons=true&locale=en" alt="eprisinitiya" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Eprisinitiya&show_icons=true&locale=en" alt="Eprisinitiya" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eprisinitiya&" alt="eprisinitiya" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Eprisinitiya&" alt="Eprisinitiya" /></p>
 
 
 ## Get in Touch
