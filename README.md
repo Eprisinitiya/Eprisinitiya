@@ -26,6 +26,7 @@ Some of my key interests include:
 ## Get in Touch
 - LinkedIn: [Connect with me](https://www.linkedin.com/in/mohitkumargdsc/)
 - Twitter: [Follow me](https://twitter.com/eprisinitiya)
-- Personal Website: [Visit my website](https://mohitkumar.framer.ai/)
+- Instagram: [Follow me](https://www.instagram.com/kumar__mohit12/)
+- Personal Website: [Visit my website](https://eprisinitiya.github.io/Portfolio/)
 
 Feel free to explore my repositories and connect with me. Let's learn and grow together in the exciting world of cloud computing and technology!
