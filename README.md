@@ -4,11 +4,11 @@
 
 # Hello, I'm Mohit Kumar! 👋
 ## About Me
-I'm a passionate and dedicated member of the Cloud Core Team at Google Developer Student Club AITR. With a strong interest in cloud technologies, I'm constantly expanding my knowledge and skills in the field. Here's a little more about me:
+I'm passionate and have a strong interest in cloud technologies, I'm constantly expanding my knowledge and skills in the field. Here's a little more about me:
 
-- 🔭 I'm currently working on cloud infrastructure and DevOps projects.
+- 🔭 I'm currently working on cloud infrastructure and Development projects.
 - 🌱 I'm always learning and staying up-to-date with the latest advancements in cloud technology, particularly in AWS, and Google Cloud.
-- 💬 I'm open to collaboration on projects related to cloud computing and DevOps.
+- 💬 I'm open to collaboration on cloud computing and DevOps projects.
 - 📫 You can reach me at [mohitkumar120904@gmail.com](mailto:mohitkumar120904@gmail.com).
 
 ## Interests
